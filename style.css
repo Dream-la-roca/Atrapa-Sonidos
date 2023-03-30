@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background: url(fondo.gif);
+    height: 100vh;
+    color: aqua;
+}
+img{
+    height: 300px;
+}
+#creditos{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+button{
+    background: magenta;
+    padding: 10px;
+    border-radius: 30px;
+}
